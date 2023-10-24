@@ -1,0 +1,27 @@
+[
+    {
+      "title": "TechTrendInsights",
+      "imageSrc": "projects/project.png",
+      "description": "TechTrendInsights is a user friendly blogsite with beautiful UI",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Shan-Sinha/TechTrendInsights"
+    },
+    {
+      "title": "Portfolio Website",
+      "imageSrc": "projects/project.png",
+      "description": "A simple and beautiful portfolio website maded on React.js",
+      "skills": ["React", "Node", "Sass"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Shan-Sinha/React-Portfolio"
+    },
+    {
+      "title": "Image Finder",
+      "imageSrc": "projects/project.png",
+      "description": "A project to find any image you want made on React.js",
+      "skills": ["React", "Axios API", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Shan-Sinha/Image-finder"
+    }
+  ]
+  
